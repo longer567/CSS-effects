@@ -12,3 +12,7 @@
 + [块立体投影](https://codepen.io/longer-xiaolong/pen/vYELMza)
 + [文字立体投影](https://codepen.io/longer-xiaolong/pen/vYELwGP)
 + [渐变阴影](https://codepen.io/longer-xiaolong/pen/NWPxZrw)
++ [字体条纹阴影](https://codepen.io/longer-xiaolong/pen/abzNKYG)
++ [阴影遮罩层](https://codepen.io/longer-xiaolong/pen/BayKOjx)
++ [条纹背景变化](https://codepen.io/longer-xiaolong/pen/rNaxXOV?editors=1100)
++ [霓虹灯文字](https://codepen.io/longer-xiaolong/pen/QWwNPRL?editors=1100)
