@@ -14,5 +14,12 @@
 + [渐变阴影](https://codepen.io/longer-xiaolong/pen/NWPxZrw)
 + [字体条纹阴影](https://codepen.io/longer-xiaolong/pen/abzNKYG)
 + [阴影遮罩层](https://codepen.io/longer-xiaolong/pen/BayKOjx)
-+ [条纹背景变化](https://codepen.io/longer-xiaolong/pen/rNaxXOV?editors=1100)
-+ [霓虹灯文字](https://codepen.io/longer-xiaolong/pen/QWwNPRL?editors=1100)
++ [条纹背景变化](https://codepen.io/longer-xiaolong/pen/rNaxXOV)
++ [霓虹灯文字](https://codepen.io/longer-xiaolong/pen/QWwNPRL)
++ [ie图标](https://codepen.io/longer-xiaolong/pen/wvBWKWo)
++ [抖音logo](https://codepen.io/longer-xiaolong/pen/OJPXMPz)
++ [阴影实现简易的圆环进度条](https://codepen.io/longer-xiaolong/pen/mdyEqdb)
++ [阴影制作凹效果](https://codepen.io/longer-xiaolong/pen/OJPXdKP)
+
+## 伪类
++ []()
