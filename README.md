@@ -22,4 +22,4 @@
 + [阴影制作凹效果](https://codepen.io/longer-xiaolong/pen/OJPXdKP)
 
 ## 伪类
-+ []()
++ [css焦点掘金登陆特效](https://codepen.io/longer-xiaolong/pen/dyPpwMo)
