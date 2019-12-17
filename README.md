@@ -23,3 +23,5 @@
 
 ## 伪类
 + [css焦点掘金登陆特效](https://codepen.io/longer-xiaolong/pen/dyPpwMo)
++ [border实现简易几何及对话框](https://codepen.io/longer-xiaolong/pen/XWJNJgQ)
++ [css实现tab标签切换](https://codepen.io/longer-xiaolong/pen/dyPOMoW)
